@@ -1,0 +1,17 @@
+h5{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 1.2em;
+   color:#fff;
+   margin-top: 115px;
+   margin-left: 630px;
+}
+
+.portao img{
+    float:right;
+    border:1px  solid #f00;
+    margin-right: 90px;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}

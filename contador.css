@@ -1,0 +1,12 @@
+body #numberCountdown {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #33CC33;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+#numberCountdown{
+    text-align: right;
+    margin-right: 230px;
+    margin-top: -320px;
+}

@@ -1,0 +1,59 @@
+html{
+    background-color: #000;
+}
+
+
+#jogo{
+    width:603px;
+    height:600px;
+    border:solid 3px
+}
+ 
+.linha{
+    height:200px;
+    border-bottom:solid 1px;
+}
+ 
+.casa{
+    width:200px;
+    height:100%;
+    border-right:solid 1px;
+    float:left;
+    background-color: #fef;
+}
+
+#resultado{
+    float: right;
+    margin-right: 130px;
+    margin-top: -350px;
+    font-family: Courier New, Courier, monospace;
+    font-size: 0.9em;
+    color: #00ff0a;
+}
+
+.imagem_1{
+    float: right;
+    margin-top: -550px;
+     margin-right: 550px;
+}
+
+
+.imagem_2{
+    float: right;
+    margin-top: -550px;
+    margin-right: 300px;
+    border-radius: 200px #f00;
+}
+
+.j1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0,9em;
+    color: #f00;
+}
+
+.j2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0,9em;
+    color: #00ff0a;
+}
+
